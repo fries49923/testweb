@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	〈這是文章標題〉的留言	</title>
+	<atom:link href="https://fries49923.github.io/testweb/2024/03/28/%E9%80%99%E6%98%AF%E6%96%87%E7%AB%A0%E6%A8%99%E9%A1%8C/feed/" rel="self" type="application/rss+xml" />
+	<link>https://fries49923.github.io/testweb/2024/03/28/%e9%80%99%e6%98%af%e6%96%87%e7%ab%a0%e6%a8%99%e9%a1%8c/</link>
+	<description>這是網站說明</description>
+	<lastBuildDate>Sat, 30 Mar 2024 08:36:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+</channel>
+</rss>

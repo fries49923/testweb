@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>
-	《webtest123》的留言	</title>
+	《這是網站標題》的留言	</title>
 	<atom:link href="https://fries49923.github.io/testweb/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://fries49923.github.io/testweb</link>
-	<description></description>
+	<description>這是網站說明</description>
 	<lastBuildDate>Sat, 23 Mar 2024 03:22:03 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

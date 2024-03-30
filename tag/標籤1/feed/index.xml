@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>標籤1 &#8211; 這是網站標題</title>
+	<atom:link href="https://fries49923.github.io/testweb/tag/%E6%A8%99%E7%B1%A41/feed/" rel="self" type="application/rss+xml" />
+	<link>https://fries49923.github.io/testweb</link>
+	<description>這是網站說明</description>
+	<lastBuildDate>Sat, 30 Mar 2024 08:36:22 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>這是文章標題</title>
+		<link>https://fries49923.github.io/testweb/2024/03/28/%e9%80%99%e6%98%af%e6%96%87%e7%ab%a0%e6%a8%99%e9%a1%8c/</link>
+					<comments>https://fries49923.github.io/testweb/2024/03/28/%e9%80%99%e6%98%af%e6%96%87%e7%ab%a0%e6%a8%99%e9%a1%8c/#respond</comments>
+		
+		<dc:creator><![CDATA[webtest123]]></dc:creator>
+		<pubDate>Thu, 28 Mar 2024 15:04:51 +0000</pubDate>
+				<category><![CDATA[分類1]]></category>
+		<category><![CDATA[標籤1]]></category>
+		<category><![CDATA[標籤2]]></category>
+		<guid isPermaLink="false">https://fries49923.github.io/testweb/?p=10</guid>
+
+					<description><![CDATA[內容摘要]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized has-custom-border"><img fetchpriority="high" decoding="async" width="910" height="535" src="https://fries49923.github.io/testweb/wp-content/uploads/2024/03/test.png" alt="測試圖片" class="wp-image-11" style="border-style:none;border-width:0px;border-radius:0px;width:749px;height:auto"/></figure>
+
+
+
+<h2 class="wp-block-heading has-palette-color-8-color has-palette-color-2-background-color has-text-color has-background">這是副標題</h2>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod diam at orci sollicitudin, eget gravida dolor consequat. In vel consectetur metus, ac lacinia mi. Sed eget odio non mi cursus tristique. Vivamus rutrum rutrum sem, non gravida lorem tincidunt vitae. Integer eleifend odio vel neque luctus, sit amet auctor dui posuere. Nulla at justo sed nisi aliquet finibus. Vestibulum pulvinar metus sapien, ac pellentesque est pharetra ut. Nulla sed mi vitae erat sagittis suscipit ut ut ex. Donec auctor aliquet justo, non euismod nisi faucibus et. Donec in tellus eu enim venenatis fermentum. Maecenas malesuada, risus a congue facilisis, libero ipsum ultrices dui, in fermentum urna ligula sed velit. Praesent in lectus in nunc facilisis scelerisque. <mark style="background-color:var(--theme-palette-color-2, #1559ed)" class="has-inline-color has-palette-color-8-color">Mauris sit amet ullamcorper turpis.</mark> Donec id nunc sed nunc facilisis commodo.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod diam at orci sollicitudin, eget gravida dolor consequat. In vel consectetur metus, ac lacinia mi. Sed eget odio non mi cursus tristique. Vivamus rutrum rutrum sem, non gravida lorem tincidunt vitae. Integer eleifend odio vel neque luctus, sit amet auctor dui posuere. Nulla at justo sed nisi aliquet finibus. Vestibulum pulvinar metus sapien, ac pellentesque est pharetra ut. Nulla sed mi vitae erat sagittis suscipit ut ut ex. Donec auctor aliquet justo, non euismod nisi faucibus et. Donec in tellus eu enim venenatis fermentum. Maecenas malesuada, risus a congue facilisis, libero ipsum ultrices dui, in fermentum urna ligula sed velit. Praesent in lectus in nunc facilisis scelerisque. <mark style="background-color:var(--theme-palette-color-2, #1559ed)" class="has-inline-color">Mauris sit amet ullamcorper turpis.</mark> Donec id nunc sed nunc facilisis commodo.</p>
+</blockquote>
+
+
+
+<div class="wp-block-kevinbatdorf-code-block-pro cbp-has-line-numbers" data-code-block-pro-font-family="Code-Pro-JetBrains-Mono" style="font-size:.875rem;font-family:Code-Pro-JetBrains-Mono,ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;--cbp-line-number-color:#D4D4D4;--cbp-line-number-width:calc(2 * 0.6 * .875rem);line-height:1.25rem;--cbp-tab-width:2;tab-size:var(--cbp-tab-width, 2)"><span style="display:flex;align-items:center;padding:10px 0px 10px 16px;margin-bottom:-2px;width:100%;text-align:left;background-color:#2b2b2b;color:#c7c7c7">C#</span><span role="button" tabindex="0" data-code="    // 註解
+    public partial class TestClass : ObservableObject
+    {
+        [ObservableProperty]
+        public string? _name;
+
+        [ObservableProperty]
+        public int _number;
+
+        [ObservableProperty]
+        public string? _description;
+    }" style="color:#D4D4D4;display:none" aria-label="Copy" class="code-block-pro-copy-button"><svg xmlns="http://www.w3.org/2000/svg" style="width:24px;height:24px" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path class="with-check" stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"></path><path class="without-check" stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"></path></svg></span><pre class="shiki dark-plus" style="background-color: #1E1E1E" tabindex="0"><code><span class="line"><span style="color: #6A9955">    // 註解</span></span>
+<span class="line"><span style="color: #D4D4D4">    </span><span style="color: #569CD6">public</span><span style="color: #D4D4D4"> </span><span style="color: #569CD6">partial</span><span style="color: #D4D4D4"> </span><span style="color: #569CD6">class</span><span style="color: #D4D4D4"> </span><span style="color: #4EC9B0">TestClass</span><span style="color: #D4D4D4"> : </span><span style="color: #4EC9B0">ObservableObject</span></span>
+<span class="line"><span style="color: #D4D4D4">    {</span></span>
+<span class="line"><span style="color: #D4D4D4">        [</span><span style="color: #4EC9B0">ObservableProperty</span><span style="color: #D4D4D4">]</span></span>
+<span class="line"><span style="color: #D4D4D4">        </span><span style="color: #569CD6">public</span><span style="color: #D4D4D4"> </span><span style="color: #569CD6">string</span><span style="color: #D4D4D4">? </span><span style="color: #9CDCFE">_name</span><span style="color: #D4D4D4">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="color: #D4D4D4">        [</span><span style="color: #4EC9B0">ObservableProperty</span><span style="color: #D4D4D4">]</span></span>
+<span class="line"><span style="color: #D4D4D4">        </span><span style="color: #569CD6">public</span><span style="color: #D4D4D4"> </span><span style="color: #569CD6">int</span><span style="color: #D4D4D4"> </span><span style="color: #9CDCFE">_number</span><span style="color: #D4D4D4">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="color: #D4D4D4">        [</span><span style="color: #4EC9B0">ObservableProperty</span><span style="color: #D4D4D4">]</span></span>
+<span class="line"><span style="color: #D4D4D4">        </span><span style="color: #569CD6">public</span><span style="color: #D4D4D4"> </span><span style="color: #569CD6">string</span><span style="color: #D4D4D4">? </span><span style="color: #9CDCFE">_description</span><span style="color: #D4D4D4">;</span></span>
+<span class="line"><span style="color: #D4D4D4">    }</span></span></code></pre></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://fries49923.github.io/testweb/2024/03/28/%e9%80%99%e6%98%af%e6%96%87%e7%ab%a0%e6%a8%99%e9%a1%8c/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

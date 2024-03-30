@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>未分類 &#8211; webtest123</title>
+	<title>未分類 &#8211; 這是網站標題</title>
 	<atom:link href="https://fries49923.github.io/testweb/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://fries49923.github.io/testweb</link>
-	<description></description>
+	<description>這是網站說明</description>
 	<lastBuildDate>Sat, 23 Mar 2024 03:22:03 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
